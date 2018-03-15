@@ -1,0 +1,47 @@
+-------------------------------------------------------------------------------------------------------------
+ALARMA EN UNA PUERTA
+-------------------------------------------------------------------------------------------------------------
+HECHO POR Ana Elizabeth Cortes Alvarado
+-------------------------------------------------------------------------------------------------------------
+DESCRIPCION 
+
+Lo que hace el programa es que es una alarma en el cual se implemento en una puerta echa de papel cascaron ,
+ya que es un material en el cual se puede diseñar con mayor facilidad.
+-------------------------------------------------------------------------------------------------------------
+DISEÑO
+
+el programa trata de que cuando abras la puerta este se implementara un sonido, 
+en el cual te indica que la puerta esta , 
+en caso de que sea cerrada el ruido se apagara al igual que el arduino(tiempo de suspension), 
+por 9 segundos y luego si se ve que esta abierta el programa auntomanticamente se encendera
+detectara si esta o no.
+-------------------------------------------------------------------------------------------------------------
+LO QUE LE AGREGUE
+
+Lo que le agregue fue el sonido que al momento de cerrar las puertas se escuchara este buzzer, 
+la puerta tiene un iman en el cual este al momento de pasar el red swits por un lado
+este se podra callar en caso de que no contenga el iman no funcionara.
+---------------------------------------------------------------------------------------------
+INSTRUCCIONES 
+
+1.- El siguiente programa que esta en la parte de abajo con terminacion (.ion) viene en la esta parte, se descarga
+2.- Al momento de realizar la practica, te debes de dar cuenta de que tengas el programa de arduino, en caso de no tenerlo,
+favor de descargarlo 
+3.- Ya que tienes descargado lo anterior y que este funcionando correctamente, 
+ahora te pasas a la forma de diceñar tu puerta que no es mucho pero te servira.
+4.- Para esto necesitamos papel cascaron, buzzer, arduino, cable para arduino, iman, red swith,cables de telefono, silicon, 
+una pistola de silicon, varios popotes, un poco de madera, regla, unas tijeras o ya sea un cuchillo, una fuente para ver como va a estar 
+conectado que no sea la compu.
+5.- Una vez que ya se tenga todo el material se mostrara maso menos el armado
+6.- se recorta un pieza de papel cascaron de 28 de largo y 14 de ancho para poder hacer el muro en el cual tendra la puerta,
+ la puerta tratar de que mida un poco mas que el agujero que esta en medio que viene siento la puerta 
+(nota: no usar el que cortaste para hacer el marco de la puerta)
+7.- una vez que tengas las piezas ya puedes recortar o si se tiene poder pegarlo con la pistola de silicon.
+8.- una vez que ya tenga armada tu puerta trata de que esta este pegada con el popote ya esta te permitira moverla, al igual el arduino
+9.- una vez que ya tengas eso, ahora si puedes continuar con pegarlo como se muestra en las figuras siguientes,
+ ya que maso menos te haya quedado asi ahora si puedes cargar el codigo de tu pc a tu arduino
+10.- bueno ya que lo tengas asi debemos de que el diagrama este bien o que se conecte como en las figuras que van a apareser acontinuacion
+
+
+Al momento de que este se pase el iman se ejecutara el codigo y dormira el arduino por varios segundos para que asi pueda ahorrar energia
+
